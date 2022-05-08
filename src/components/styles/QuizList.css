@@ -1,0 +1,13 @@
+.QuizList {
+  text-align: center;
+  height: 100vh;
+}
+
+.btn-quiz {
+  background-color: indianred;
+  margin: 5px;
+}
+
+.quiz-container {
+  padding-top: 100px;
+}

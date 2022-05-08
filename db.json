@@ -1,0 +1,141 @@
+{
+  "category": [
+    {
+      "id": 2,
+      "categoryName": "Web Developement  ",
+      "categoryDesc": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, delectus.",
+      "createdAt": "2021-09-25"
+    },
+    {
+      "id": 3,
+      "categoryDesc": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, delectus.",
+      "categoryName": "Data Science",
+      "createdAt": "2021-09-15"
+    },
+    {
+      "id": 4,
+      "categoryDesc": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, delectus.",
+      "categoryName": "Mobile Developement",
+      "createdAt": "2021-09-05"
+    },
+    {
+      "id": 5,
+      "categoryDesc": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, delectus.",
+      "categoryName": "Programming Languages",
+      "createdAt": "2021-09-02"
+    },
+    {
+      "id": 6,
+      "categoryDesc": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, delectus.",
+      "categoryName": "Game Developement",
+      "createdAt": "2021-09-18"
+    },
+    {
+      "categoryDesc": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime, delectus.",
+      "categoryName": "Software Engineering",
+      "createdAt": "2021-10-12",
+      "id": 7
+    }
+  ],
+  "topics": [
+    {
+      "id": 2,
+      "course": "React JS",
+      "topicTitle": "componenet",
+      "filename": "/files//files/demo.pdf",
+      "description": "React js is javascript Library hello",
+      "topicDuration": "11",
+      "date": "2021-10-07"
+    },
+    {
+      "id": 3,
+      "course": "React JS",
+      "topicTitle": "Redux- Router",
+      "filename": "/files/abc.jpg",
+      "description": "React js is javascript Library sfdfs",
+      "topicDuration": "10",
+      "date": "2021-10-20"
+    },
+    {
+      "id": 4,
+      "course": "Redux-react",
+      "topicTitle": "Redux- Router-1",
+      "filename": "/files/new1.txt",
+      "description": "React js is javascript Librarydfedvd",
+      "topicDuration": "10",
+      "date": "2021-10-12"
+    },
+    {
+      "id": 5,
+      "course": "Angular Js",
+      "topicTitle": "Redux- Router-1",
+      "filename": "/files/new1 (1).txt",
+      "description": "React js is javascript Library hello",
+      "topicDuration": "10",
+      "date": "2021-10-07"
+    },
+    {
+      "id": 6,
+      "course": "Node js",
+      "topicTitle": "2",
+      "filename": "/files/Screenshot (3).png",
+      "description": "2",
+      "topicDuration": "2",
+      "date": "2021-10-04"
+    },
+    {
+      "id": 7,
+      "course": "React JS",
+      "topicTitle": "13",
+      "filename": "/files/Screenshot (66).png",
+      "description": "13",
+      "topicDuration": "13",
+      "date": "2021-10-04"
+    },
+    {
+      "id": 8,
+      "course": "React JS",
+      "topicTitle": "12",
+      "filename": "/files/Screenshot (12).png",
+      "description": "12",
+      "topicDuration": "12",
+      "date": "2021-09-28"
+    },
+    {
+      "id": 9,
+      "course": "Angular Js",
+      "topicTitle": "12",
+      "filename": "/files/Screenshot (6).png",
+      "description": "12",
+      "topicDuration": "12",
+      "date": "2021-10-04"
+    },
+    {
+      "id": 10,
+      "course": "React JS",
+      "topicTitle": "12",
+      "filename": "/files/Screenshot (5).png",
+      "description": "1212",
+      "topicDuration": "12",
+      "date": "2021-10-05"
+    },
+    {
+      "id": 11,
+      "course": "Vue JS",
+      "topicTitle": "11",
+      "filename": "/files/Screenshot (2).png",
+      "description": "11",
+      "topicDuration": "11",
+      "date": "2021-10-04"
+    },
+    {
+      "id": 12,
+      "course": "Node js",
+      "topicTitle": "12",
+      "filename": "/files/Topic Module_Prashant Nimbolkar.pdf",
+      "description": "12",
+      "topicDuration": "",
+      "date": "2021-10-04"
+    }
+  ]
+}

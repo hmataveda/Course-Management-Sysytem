@@ -1,0 +1,9 @@
+ul > li {
+  list-style-type: decimal;
+}
+
+.home-cont {
+  margin: 100px;
+  padding: 20px;
+  height: 100vh;
+}

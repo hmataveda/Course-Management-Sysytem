@@ -1,0 +1,38 @@
+.quiz1 {
+  height: 100vh;
+  margin: 200px;
+  padding: 10px;
+}
+
+.quiz2 {
+  height: 100vh;
+  margin: 100px;
+  padding: 10px;
+}
+
+.quiz-card {
+  box-shadow: rgb(0 0 0 / 20%) 0px 2px 1px -1px,
+    rgb(0 0 0 / 14%) 0px 1px 1px 0px, rgb(0 0 0 / 12%) 0px 1px 3px 0px;
+  padding: 50px;
+  width: 70%;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.card {
+  margin: 20px;
+  padding: 10px;
+  background-color: rgb(245, 226, 163);
+}
+
+.counter {
+  text-align: center;
+  position: fixed;
+  top: 60px;
+  left: 70px;
+}
+
+.radio-inp {
+  padding: 5px;
+  margin-left: 15px;
+}

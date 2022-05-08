@@ -1,0 +1,22 @@
+.student-login {
+  margin: 20px;
+  padding: 5px;
+  height: max-content;
+}
+
+.login {
+  background-color: rgb(144, 188, 238);
+  text-align: center;
+  margin: 120px 380px 120px 380px;
+  padding: 50px;
+}
+
+ul > li {
+  list-style-type: decimal;
+}
+
+.home-cont {
+  margin: 100px;
+  padding: 20px;
+  height: 100vh;
+}

@@ -1,0 +1,90 @@
+{
+  "category": [
+    {
+      "id": 3,
+      "categoryId": "002",
+      "categoryName": "Data Science",
+      "createdAt": "2021-09-15"
+    },
+    {
+      "id": 4,
+      "categoryId": "003",
+      "categoryName": "Mobile Developement",
+      "createdAt": "2021-09-05"
+    },
+    {
+      "id": 5,
+      "categoryId": "004",
+      "categoryName": "Programming Languages",
+      "createdAt": "2021-09-02"
+    },
+    {
+      "id": 6,
+      "categoryId": "005",
+      "categoryName": "Game Developement",
+      "createdAt": "2021-09-18"
+    },
+    {
+      "categoryId": "006",
+      "categoryName": "Software Testing",
+      "createdAt": "2021-10-22",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "categoryId": "123",
+      "categoryName": "Data Science 1",
+      "createdAt": "2021-10-02"
+    },
+    {
+      "categoryId": "9",
+      "categoryName": "ddd",
+      "createdAt": "2021-10-14",
+      "id": 9
+    },
+    {
+      "categoryId": "10",
+      "categoryName": "ddd123",
+      "createdAt": "2021-10-14",
+      "id": 10
+    }
+  ],
+  "topics": [
+    {
+      "id": 2,
+      "course": "React JS",
+      "topicTitle": "componenet",
+      "filename": "/files//files/demo.pdf",
+      "description": "React js is javascript Library hello",
+      "topicDuration": "11",
+      "date": "2021-10-07"
+    },
+    {
+      "id": 3,
+      "course": "React JS",
+      "topicTitle": "Redux- Router",
+      "filename": "/files/abc.jpg",
+      "description": "React js is javascript Library sfdfs",
+      "topicDuration": "10",
+      "date": "2021-10-20"
+    },
+    {
+      "id": 4,
+      "course": "Redux-react",
+      "topicTitle": "Redux- Router-1",
+      "filename": "/files/new1.txt",
+      "description": "React js is javascript Librarydfedvd",
+      "topicDuration": "10",
+      "date": "2021-10-12"
+    },
+    {
+      "id": 5,
+      "course": "Angular Js",
+      "topicTitle": "Redux- Router-1",
+      "filename": "/files/new1 (1).txt",
+      "description": "React js is javascript Library hello",
+      "topicDuration": "10",
+      "date": "2021-10-07"
+    }
+  ]
+}

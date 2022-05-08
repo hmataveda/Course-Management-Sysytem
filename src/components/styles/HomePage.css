@@ -1,0 +1,12 @@
+.user-login {
+  margin: 20px;
+  padding: 5px;
+  height: max-content;
+}
+
+.login {
+  background-color: rgb(144, 188, 238);
+  text-align: center;
+  margin: 120px 380px 120px 380px;
+  padding: 50px;
+}

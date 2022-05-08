@@ -1,0 +1,23 @@
+.header {
+  height: fit-content;
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(129, 129, 236);
+}
+
+.module-list {
+  list-style-type: none;
+  display: flex;
+  align-content: flex-start;
+  color: white;
+}
+
+.module-list > li {
+  margin: 5px;
+  padding: 10px;
+  font-size: larger;
+}
+
+.logout {
+  display: flex;
+}

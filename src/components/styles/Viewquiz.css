@@ -1,0 +1,23 @@
+.quiz {
+  background-color: rgb(207, 205, 245);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.quiz-data {
+  box-shadow: 1px 1px 2px 2px #363f66;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.quiz-questn {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.quiz-ans {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}

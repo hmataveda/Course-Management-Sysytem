@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #000;
+}
+
+.nav-link:hover {
+  color: #ffffff !important;
+  background-color: #023047;
+}
+
+#download a {
+  text-decoration: none;
+  color: #000;
+}
+
+.category-title:hover {
+  color: rgb(0, 61, 192);
+  display: none;
+}
